@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "email": "admin@gmail.com",
+    "password": "admin"
+  },
+  "user": [
+    {
+      "fullName": "sidhu",
+      "numberOfPeople": "12",
+      "selectedTime": "16:00",
+      "emailAddress": "sighu@gmail.com",
+      "selectedDate": "2023-11-30",
+      "mobileNumber": "67894447853",
+      "id": 2
+    }
+  ]
+}
